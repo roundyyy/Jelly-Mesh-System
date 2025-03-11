@@ -1,4 +1,4 @@
-# JellyMesh System by Roundy - User Manual
+# JellyMesh System - User Manual
 
 ## Overview
 
