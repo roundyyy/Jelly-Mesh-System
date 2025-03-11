@@ -20,7 +20,7 @@ The JellyMesh System is a Unity component that adds jelly-like physics to any me
 
 ## Installation
 
-1. Import the JellyMesh System package into your Unity project
+1. Download the latest release package from the [Releases](https://github.com/roundyyy/Jelly-Mesh-System/releases) page and import to your Unity project
 2. Required packages : Jobs, Burst, Collections, Mathematics
 3. Ensure your mesh has "Read/Write Enabled" checked in the import settings:
    - Select your mesh in the Project window
