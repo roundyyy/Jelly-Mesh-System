@@ -2,6 +2,8 @@
 
 ![Demo GIF](demo.gif)
 
+model : https://assetstore.unity.com/packages/3d/environments/abandoned-buildings-62875
+
 ![Demo2 GIF](demo2.gif)
 
 model : https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/apocalypse-series-zombie-character-free-272407
