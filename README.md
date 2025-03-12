@@ -4,6 +4,8 @@
 
 ![Demo2 GIF](demo2.gif)
 
+model : https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/apocalypse-series-zombie-character-free-272407
+
 ## Overview
 
 The JellyMesh System is a Unity component that adds jelly-like physics to any mesh. Using Unity's Job System and Burst compiler for high performance, it can handle complex meshes efficiently even in demanding scenes.
