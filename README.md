@@ -2,6 +2,8 @@
 
 ![Demo GIF](demo.gif)
 
+![Demo2 GIF](demo2.gif)
+
 ## Overview
 
 The JellyMesh System is a Unity component that adds jelly-like physics to any mesh. Using Unity's Job System and Burst compiler for high performance, it can handle complex meshes efficiently even in demanding scenes.
