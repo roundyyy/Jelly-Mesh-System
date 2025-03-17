@@ -12,7 +12,7 @@ model : https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/ap
 
 The JellyMesh System is a Unity component that adds jelly-like physics to any mesh. Using Unity's Job System and Burst compiler for high performance, it can handle complex meshes efficiently even in demanding scenes.
 
-
+## Please note that SkinnedMeshRenderer support is experimental (not implemented well tbh)
 
 ## Features
 
